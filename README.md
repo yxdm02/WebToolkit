@@ -1,4 +1,4 @@
-![logo-OYJ34ERC](https://github.com/user-attachments/assets/bf54e279-ee43-41ef-b76d-9ba90131fa94)# WebToolkit
+# WebToolkit
 
 > 🤔 渗透测试信息收集阶段，被大量重复的 URL 困扰？
 > 
