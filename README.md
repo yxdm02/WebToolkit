@@ -165,10 +165,5 @@ MIT License
 
 ## 🤝 贡献
 
-欢迎提交 Issue 和 Pull Request 来帮助改进这个工具。
+欢迎提交 Issue 来帮助改进这个工具。
 
-## 📚 相关资源
-
-- [OWASP信息收集指南](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/)
-- [渗透测试方法论](https://www.pentest-standard.org/)
-- [Web开发安全最佳实践](https://cheatsheetseries.owasp.org/)
